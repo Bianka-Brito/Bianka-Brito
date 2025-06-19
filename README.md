@@ -1,7 +1,7 @@
 # 👋 Olá! meu nome é Bianka
 
 🎓 Estudante de Ciência da Computação na **UNIP**  
-💻 Apaixonada por tecnologia e construção de soluções com propósito.
+💻 Apaixonada por tecnologia, aprender coisas novas e livros.
 
 ---
 
