@@ -1,7 +1,7 @@
 # 👋 Olá! meu nome é Bianka
 
 🎓 Estudante de Ciência da Computação na **UNIP**  
-💻 Apaixonada por tecnologia, aprender coisas novas e livros.
+💻 Apaixonada por tecnologia, arte e livros.
 
 ---
 
@@ -22,6 +22,7 @@ Atualmente estudando e praticando:
 - 👩‍💻 Estudante dedicada em constante evolução
 - 🌱 Buscando oportunidades para aplicar meus conhecimentos em projetos reais
 - 🤝 Aberta a colaborações e networking com a comunidade dev
+📚 Possuo cursos de Introdução à Data Science e Inteligência Artificial, além de um curso voltado para Interfaces
 
 ---
 
