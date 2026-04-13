@@ -14,14 +14,16 @@ Atualmente estudando e praticando:
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
 
 
 ---
 
 ## ✨ Sobre mim
 - 👩‍💻 Estágiaria de Análise de dados 
-- 🌱 Buscando oportunidades para aplicar meus conhecimentos em projetos reais
-- 🤝 Aberta a colaborações e networking com a comunidade dev
+
 - 📚 Possuo cursos de Introdução à Data Science e Inteligência Artificial, além de curso voltado para Interfaces
 
 ---
