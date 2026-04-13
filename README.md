@@ -28,5 +28,6 @@ Atualmente estudando e praticando:
 
 ---
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bianka-cheregatto-brito-03868b314?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
-⭐ Obrigada por visitar meu perfil!  
+
+##⭐ Obrigada por visitar meu perfil!  
 
