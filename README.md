@@ -22,9 +22,9 @@ Atualmente estudando e praticando:
 ---
 
 ## ✨ Sobre mim
-- 👩‍💻 Estágiaria de Análise de dados 
+- 👩‍💻 Analista de dados
 
-- 📚 Possuo cursos de Introdução à Data Science e Inteligência Artificial, além de curso voltado para Interfaces
+- 📚 Possuo cursos de Introdução à Data Science e Inteligência Artificial, além de curso voltado para Interfaces e Dados
 
 ---
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bianka-cheregatto-brito-03868b314?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
